@@ -3,7 +3,7 @@
 A practical, task-focused guide to Ansible automation.
 
 
-<img src="cover_image.jpeg" alt="Cover Image" width="100%" >
+<img src="cover.jpg" alt="Concise Ansible book cover" width="1600" height="873" style="width:100%;height:auto">
 
 ---
 

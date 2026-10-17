@@ -1,5 +1,5 @@
 [
-  { "separator": "— Part I —" },
+  { "separator": "Part I · Ansible Fundamentals" },
   "chapter01.md",
   "chapter02.md",
   "chapter03.md",
@@ -13,7 +13,7 @@
   "chapter11.md",
   "chapter12.md",
   "chapter13.md",
-    { "separator": "— Part II —" },
+  { "separator": "Part II · Ansible in Practice" },
   "chapter14.md",
   "chapter15.md",
   "chapter16.md",
@@ -24,6 +24,5 @@
   "chapter21.md",
   "chapter22.md",
   "chapter23.md",
-  "conclusion.md",
-  "glossary.md"
+  "conclusion.md"
 ]

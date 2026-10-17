@@ -87,7 +87,7 @@ handlers:
 ---
 ## Using Handlers with Roles
 
-In roles, handlers live in roles/<role_name>/handlers/main.yml:
+In roles, handlers live in `roles/<role_name>/handlers/main.yml`:
 
 ```
 roles/
